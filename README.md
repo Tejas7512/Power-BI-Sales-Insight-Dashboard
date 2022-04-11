@@ -43,3 +43,9 @@ Power BI Sales Insight Dashboard
 
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
+
+
+Please Check Below Power BI Dashboard Screenshot
+
+![salesinsights](https://user-images.githubusercontent.com/30586439/162806516-ffdb4b5b-e736-4d14-8dbf-f17bdefdeae8.jpg)
+
